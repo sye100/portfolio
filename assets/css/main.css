@@ -498,9 +498,9 @@ header .nav-item--active {
   transform: translate(-50%, -50%);
 }
 
-#contact .mail-box p {
-  font-size: 36px;
-}
+ #contact .mail-box p {
+    font-size: 46px;
+  }
 
 
 /* MEDIA */
@@ -586,7 +586,7 @@ header .nav-item--active {
     font-size: 46px;
   }
 
-  #contact p {
+ #contact .mail-box p {
     font-size: 26px;
   }
 }
@@ -724,7 +724,7 @@ header .nav-item--active {
     font-size: 36px;
   }
 
-  #contact p {
+  #contact .mail-box p {
     font-size: 16px;
   }
 }
