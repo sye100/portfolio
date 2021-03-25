@@ -498,6 +498,11 @@ header .nav-item--active {
   transform: translate(-50%, -50%);
 }
 
+#contact .mail-box .cont-p {
+  font-size: 36px;
+}
+
+
 /* MEDIA */
 @media (max-width: 1280px) {
   .hidden {
@@ -720,6 +725,6 @@ header .nav-item--active {
   }
 
   #contact p {
-    font-size: 26px;
+    font-size: 36px;
   }
 }
